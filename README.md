@@ -197,11 +197,11 @@ v1 net4 gnd! dc=1.2
 Harshit Agarwal, Mtech in Electronics & communication at  Indian Institute Of Information Technology Road Devghat, Jhalwa, Prayagraj, Uttar Pradesh 211015
 
 # Acknowledgement
-Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836)
 
-Cloud Based Analog IC Design Hackathon
+[Cloud Based Analog IC Design Hackathon](https://hackathoniith.in/)
 
-Synopsys India
+[Synopsys India](https://www.synopsys.com/)
 
 # Reference 
 [1]	M.  Jamal  Deen,  “Ultra  Low-Voltage  Low-Power  Voltage  Controlled  Oscillator”,  Electrical  and  Computer  Engineering  Department,  CRL  226  McMaster  University,  Hamilton,  ON,  Canada  L8S  4K1. 
