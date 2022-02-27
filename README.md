@@ -194,7 +194,7 @@ v1 net4 gnd! dc=1.2
 .end
 
 # Author
-Harshit Agarwal, Mtech in Electronics & communication at  Indian Institute Of Information Technology Road Devghat, Jhalwa, Prayagraj, Uttar Pradesh 211015
+Harshit Agarwal, Mtech in Microelectronics at  Indian Institute Of Information Technology Road Devghat, Jhalwa, Prayagraj, Uttar Pradesh 211015
 
 # Acknowledgement
 [Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836)
