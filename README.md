@@ -61,7 +61,9 @@ Current Starved VCO frequency depends upon the "Vctrl" value, as the value of "V
 Below i have simulated the VCO with a "Vctrl" value of **0.8v**
 
 At the give voltage circuit has given a freq of **10.9Ghz**
-![image](https://user-images.githubusercontent.com/100519126/155895069-ed6f5da3-4dc4-4426-9026-f99273905cff.png)
+
+![image](https://user-images.githubusercontent.com/100519126/155934912-ea930c6a-a96c-482b-b873-5170888cc6e6.png)
+
 
 Below image was produced after sweeping "Vctrl" for 4 different values:- 
 
